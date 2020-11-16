@@ -98,9 +98,9 @@
         <input type="password" name="password"  autocomplete="off" required>
         <label for="">Password</label>
       </div>
-        <a href="atter.html">
-            <input type="submit" value="login" class="w3-button w3-xlarge w3-circle w3-teal">
-        </a>
+        
+          <input type="submit" value="login" class="w3-button w3-xlarge w3-circle w3-teal">
+        
     </form>
   </div>
 </body>
